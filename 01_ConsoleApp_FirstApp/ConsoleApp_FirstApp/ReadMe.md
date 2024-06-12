@@ -1,3 +1,5 @@
+# Version 1.2
+
 # Game of Thrones Console App
 
 This is a simple console application written in C# that simulates a Game of Thrones universe. It allows you to explore different houses, their territories, and even simulate battles between them. Additionally, it provides information about the characters associated with each house.
