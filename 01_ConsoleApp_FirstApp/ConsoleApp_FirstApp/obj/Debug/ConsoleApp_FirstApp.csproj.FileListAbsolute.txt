@@ -1,0 +1,7 @@
+C:\Users\nh-sulaiman\OneDrive - Critical Manufacturing\Desktop\Random\ADO Playground\01_ConsoleApp_FirstApp\ConsoleApp_FirstApp\bin\Debug\ConsoleApp_FirstApp.exe.config
+C:\Users\nh-sulaiman\OneDrive - Critical Manufacturing\Desktop\Random\ADO Playground\01_ConsoleApp_FirstApp\ConsoleApp_FirstApp\bin\Debug\ConsoleApp_FirstApp.exe
+C:\Users\nh-sulaiman\OneDrive - Critical Manufacturing\Desktop\Random\ADO Playground\01_ConsoleApp_FirstApp\ConsoleApp_FirstApp\bin\Debug\ConsoleApp_FirstApp.pdb
+C:\Users\nh-sulaiman\OneDrive - Critical Manufacturing\Desktop\Random\ADO Playground\01_ConsoleApp_FirstApp\ConsoleApp_FirstApp\obj\Debug\ConsoleApp_FirstApp.csproj.AssemblyReference.cache
+C:\Users\nh-sulaiman\OneDrive - Critical Manufacturing\Desktop\Random\ADO Playground\01_ConsoleApp_FirstApp\ConsoleApp_FirstApp\obj\Debug\ConsoleApp_FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\nh-sulaiman\OneDrive - Critical Manufacturing\Desktop\Random\ADO Playground\01_ConsoleApp_FirstApp\ConsoleApp_FirstApp\obj\Debug\ConsoleApp_FirstApp.exe
+C:\Users\nh-sulaiman\OneDrive - Critical Manufacturing\Desktop\Random\ADO Playground\01_ConsoleApp_FirstApp\ConsoleApp_FirstApp\obj\Debug\ConsoleApp_FirstApp.pdb
