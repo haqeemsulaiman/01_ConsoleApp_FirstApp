@@ -2,6 +2,7 @@
 
 This is a simple console application written in C# that simulates a Game of Thrones universe. It allows you to explore different houses, their territories, and even simulate battles between them. Additionally, it provides information about the characters associated with each house.
 
+
 ## Features
 
 - Display information about Game of Thrones houses, including their names, territories, and types.
@@ -10,7 +11,7 @@ This is a simple console application written in C# that simulates a Game of Thro
 
 ## How to Use
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine from the GitHub Repo.
 2. Open the solution in Visual Studio or your preferred C# IDE.
 3. Build and run the project.
 4. Follow the prompts in the console to interact with the application.
